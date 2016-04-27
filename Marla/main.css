@@ -1,0 +1,39 @@
+@font-face {
+	font-family: dosis;
+	src:url(Dosis-ExtraLight.otf);
+}
+@font-face {
+	font-family: dosiss;
+	src:url(Dosis-Bold.otf);
+}
+p{
+	color: #494949;
+	font-size: 20px;
+	line-height: 150%;
+	font-weight: lighter;
+	margin-top: 20px;
+	font-family: dosis;
+}
+h3{
+	font-size: 25px;
+	font-family: dosiss;
+	color: #17466b;
+}
+span{
+	font-family: dosiss;
+}
+ul{
+	font-family: dosis;
+	font-size: 20px;
+}
+ul li{
+	margin-right: 20px;
+	margin-left: 10px;
+}
+h1{
+	font-family: dosiss;
+	padding: 50px;
+}
+.img-thumbnail{
+	margin-top: 30px;
+}
